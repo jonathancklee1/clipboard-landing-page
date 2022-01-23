@@ -18,6 +18,8 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
+
+
+## Live Site 
+
+See live preview here: https://jonathancklee1.github.io/clipboard-landing-page/
